@@ -2,5 +2,8 @@ approvers:
   - hwdef
   - tanjunchen
 
+reviewers:
+  - zehuaiWANG
+
 labels:
 - language/zh
